@@ -1,2 +1,2 @@
 # DMAR
-Digital Marketing App Website
+Digital Marketing Using AR Website
